@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\MapManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:MapManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\CameraManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:CameraManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:CameraManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635EEAB8-4685-4759-89B1-EB54014ED8DE}|ThirdPersonCPP1.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CameraManager.h",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.h",
-              "RelativeDocumentMoniker": "CameraManager.h",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.h",
-              "RelativeToolTip": "CameraManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-13T13:24:57.644Z",
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T03:32:01.229Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CameraManager.cpp",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\CameraManager.cpp",
               "RelativeDocumentMoniker": "CameraManager.cpp",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\CameraManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\CameraManager.cpp",
               "RelativeToolTip": "CameraManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-13T12:57:06.43Z",
+              "WhenOpened": "2025-04-16T03:52:58.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.h",
-              "RelativeDocumentMoniker": "GameManager.h",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.h",
-              "RelativeToolTip": "GameManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-13T12:58:44.491Z",
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\GameManager.cpp",
+              "RelativeToolTip": "GameManager.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T03:33:06.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.cpp",
-              "RelativeDocumentMoniker": "GameManager.cpp",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\GameManager.cpp",
-              "RelativeToolTip": "GameManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-13T12:57:17.286Z",
+              "WhenOpened": "2025-04-16T03:31:13.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\Player.cpp",
-              "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\Player.cpp",
-              "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Title": "MapManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\MapManager.cpp",
+              "RelativeDocumentMoniker": "MapManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\MapManager.cpp*",
+              "RelativeToolTip": "MapManager.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-13T12:46:48.228Z",
+              "WhenOpened": "2025-04-16T03:33:17.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\syafi\\Desktop\\DekstopRepo\\DirectX\\ThirdPersonCPP1\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-13T12:46:46.341Z",
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DesktopRepo\\thirdpersoncpp\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T03:57:33.017Z",
               "EditorCaption": ""
             }
           ]

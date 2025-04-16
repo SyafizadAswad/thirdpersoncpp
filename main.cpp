@@ -8,11 +8,13 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	SetUseBackBufferTransColorFlag(FALSE);
 	ChangeWindowMode(TRUE);
 	DxLib_Init();
-	SetBackgroundColor(255, 30, 30);
+	SetGraphMode(1280, 720, 32);
+	SetWindowSize(1280, 720);
+	SetBackgroundColor(0, 0, 0);
 	SetDrawScreen(DX_SCREEN_BACK);
-	SetCameraNearFar(1.0f, 1000.0f);
+	SetCameraNearFar(1.0f, 10000.0f);
 	SetLightEnable(TRUE);
-	SetLightAmbColor(GetColorF(0.5f, 0.5f, 0.5f, 255));
+	SetLightAmbColor(GetColorF(1.0f, 1.0f, 1.0f, 1.0f));
 
 	GameManager::Init();
 	GameManager::Draw();

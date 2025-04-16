@@ -7,4 +7,5 @@ namespace Player {
 	void Draw();
 	void Cleanup();
 	VECTOR GetPosition();
+
 }
